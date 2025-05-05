@@ -1,5 +1,5 @@
-# PHP DASAR 
-Belajar Git untuk upload file
+# BASIC PHP
+Learn Git to upload projects.
 
-## Tugas Looping dan Branching
-Ada Looping untuk mencari angka prima dibawah 50 dan Branching untuk menampilkan pilihan nilai
+## Looping and Branching Task
+There is also looping function to gain odd numbers.
